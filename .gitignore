@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# Frontend build folder
+stats-frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
