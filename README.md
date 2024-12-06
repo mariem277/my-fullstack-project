@@ -31,7 +31,7 @@ To run this project locally, you'll need to install dependencies for both the ba
 
 2. Navigate to the `data-detective` folder (backend):
     ```bash
-    cd data-detective
+    cd backend
     ```
 
 3. Install dependencies:
